@@ -12,4 +12,4 @@ Frontend da aplicação de cadastro de casos para uma ONG, utilizando React.
 
 ### Testando a aplicação
 
-1.Acesse a pasta do projeto e inicie com `npm start`
+1. Acesse a pasta do projeto e inicie com `npm start`
