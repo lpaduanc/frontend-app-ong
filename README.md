@@ -13,4 +13,4 @@ Frontend da aplicação de cadastro de casos para uma ONG, utilizando React.
 
 ### Testando a aplicação
 
-1.Abra o browser e visite a págian `http://localhost:3333
+1.Abra o browser e visite a págian `http://localhost:3333`
